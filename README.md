@@ -13,7 +13,7 @@
 </p>
 
 ## Sobre
-O <strong>Ecoleta</strong> serve como um marketplace, uma conexão entre entidades que coletam resísuos 0rgânicos e inorgânicos a pessoas que necessitam descartar esses resíduos.
+O <strong>Ecoleta</strong> serve como um marketplace, uma conexão entre entidades que coletam resísuos orgânicos e inorgânicos a pessoas que necessitam descartar esses resíduos.
 
 Essa aplicação foi construída na na <strong>Next Level Week</strong> distribuída pela <a href="https://rocketseat.com.br">Rocketseat</a>. A ideia veio para reforçar a <strong>semana do meio ambiente</strong>.
 
