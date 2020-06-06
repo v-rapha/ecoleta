@@ -48,6 +48,8 @@ $ npm run knex:seed
 
 # Inicie o server
 $ npm run dev
+
+# Nos arquivos ItemsController.ts e PointsController.ts, trocar a image_url pelo seu endereço IP
 ```
 
 - ### Iniciando a aplicação web
@@ -75,6 +77,8 @@ $ npm start
 
 # O Expo irá abrir no terminal e/ou no navegador.
 # Você precisa apenas escanear o QRcode com seu dispositivo fisico ou rodar a aplicação no seu emulador
+
+# No arquivo api.ts, troque a baseURL pelo seu endereço IP
 ```
 
 ## Como contribuir
