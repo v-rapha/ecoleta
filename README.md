@@ -79,6 +79,9 @@ $ npm start
 # Você precisa apenas escanear o QRcode com seu dispositivo fisico ou rodar a aplicação no seu emulador
 
 # No arquivo api.ts, troque a baseURL pelo seu endereço IP
+
+# Se ocorrer algum problema com as fontes, execute
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 ```
 
 ## Como contribuir
