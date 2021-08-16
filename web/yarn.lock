@@ -9670,10 +9670,10 @@ react-dom@^16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-react-drop-zone@^3.1.1:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/react-drop-zone/-/react-drop-zone-3.3.0.tgz#5a983edede12c6734838636d388f1d15e916d346"
-  integrity sha512-B/UZmtOJxUZ6wkrU9Ou/RWKyE164ppv43B7OWFOZdshDl4rhhBZ8cgQREi861HUmJ4iiRf3ddMM+kYXhlkfWKg==
+react-drop-zone@^4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/react-drop-zone/-/react-drop-zone-4.3.2.tgz#a8bfd571d6cce4461c094e9204a7c8b945cbbc51"
+  integrity sha512-ANIn3wUT5Wg8XX7aqo6gN3G+vkQ17EQ+MADaSsogh/NXgyjGPoRKk6zQW60ulMa9Pl699p1NkVvNA56+tbjzVw==
 
 react-dropzone@^11.0.1:
   version "11.3.4"
