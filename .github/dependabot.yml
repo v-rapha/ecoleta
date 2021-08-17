@@ -8,14 +8,14 @@ updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/mobile" # Location of package manifests
     schedule:
-      interval: "daily"
+      interval: "weekly"
       
   - package-ecosystem: "npm"
     directory: "/server"
     schedule:
-      interval: "daily"
+      interval: "weekly"
       
   - package-ecosystem: "npm"
     directory: "/web"
     schedule:
-      interval: "daily"
+      interval: "weekly"
