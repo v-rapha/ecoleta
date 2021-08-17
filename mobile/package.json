@@ -36,7 +36,7 @@
     "@types/react": "~16.9.23",
     "@types/react-native": "~0.61.17",
     "babel-preset-expo": "~8.4.1",
-    "typescript": "~3.8.3"
+    "typescript": "~4.3.5"
   },
   "private": true
 }
