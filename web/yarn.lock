@@ -2234,7 +2234,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-leaflet@^2.5.1":
+"@types/react-leaflet@^2.8.2":
   version "2.8.2"
   resolved "https://registry.yarnpkg.com/@types/react-leaflet/-/react-leaflet-2.8.2.tgz#85b8d82d5204eee792dedd45ccb555c35b8ae2ac"
   integrity sha512-Iel8Vd1bSCD38Yhiqcmm/+9hjPEdd39LFE3tBMbOytq3QAQsC3LDrbo6ifoh8JbpqPbCsQPo9Wx5OELHixEShg==
