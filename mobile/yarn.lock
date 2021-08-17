@@ -3193,11 +3193,12 @@ expo-location@~8.1.0:
   dependencies:
     invariant "^2.2.4"
 
-expo-mail-composer@~8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/expo-mail-composer/-/expo-mail-composer-8.1.0.tgz#7de693861e374add34ba4da69df677c2d6ba7104"
-  integrity sha512-CMkDa5YX9YZj/ZLHp0f1WAMBrCZjGqsloOH9JzhnCwMVy0BR+lLYoYWiwx2zk2JTpUgADXjdQKK4edDFclGwtg==
+expo-mail-composer@~10.2.2:
+  version "10.2.2"
+  resolved "https://registry.yarnpkg.com/expo-mail-composer/-/expo-mail-composer-10.2.2.tgz#b574931aa4e8608abbc2a60d505bf51d3589bb66"
+  integrity sha512-jvIDMWgHRj4f2oD4kg5rb/rSZKatQ2Bo/U7PlUU3T/QudngAcSzE6BBWYQhTVP1sLoBGSkoDTLlxGOKQQS1JUg==
   dependencies:
+    expo-modules-core "~0.2.0"
     query-string "^6.2.0"
 
 expo-modules-core@~0.2.0:
